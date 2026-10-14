@@ -1,19 +1,64 @@
-# Project Repository
+# Playtest Feedback Hub
 
-This repository will be used for team projects.
+## Project Description
 
-Several sets of instructions are included in this repository. They should each be treated as separate assignments with their own due dates and sets of requirements.
+Playtest Feedback Hub is a mobile web application designed to help game developers, game designers, and software developers collect and organize feedback during playtesting.
 
-1. See the [App Map & Wireframes](instructions-0a-app-map-wireframes.md) and [Prototyping](./instructions-0b-prototyping.md) instructions for the requirements of the initial user experience design of the app.
+Feedback often arrives through multiple channels, such as Discord messages, screenshots, and verbal comments. Manually organizing this information can be time-consuming and makes it difficult to track recurring issues and prioritize improvements.
 
-1. Delete the contents of this file and replace with the contents of a proper README.md, as described in the [project setup instructions](./instructions-0c-project-setup.md)
+Playtest Feedback Hub aims to provide a centralized platform where playtesters can submit feedback and developers can easily review, categorize, and manage it.
 
-1. See the [Sprint Planning instructions](instructions-0d-sprint-planning.md) for the requirements of Sprint Planning for each Sprint.
+## Product Vision Statement
 
-1. See the [Front-End Development instructions](./instructions-1-front-end.md) for the requirements of the initial Front-End Development.
+For game developers, game designers, and software developers who need to collect feedback while testing their products, Playtest Feedback Hub is a mobile-friendly feedback management platform that centralizes and organizes playtest feedback in one place. Unlike manually collecting feedback from scattered messages, screenshots, and conversations, our product aims to make feedback easier to access, understand, and act upon.
 
-1. See the [Back-End Development instructions](./instructions-2-back-end.md) for the requirements of the initial Back-End Development.
+## Main User Story
+As a game designer, I want feedback to be categorized by type, such as bugs, gameplay, art, and audio, so that I can find relevant feedback quickly.
 
-1. See the [Database Integration instructions](./instructions-3-database.md) for the requirements of integrating a database into the back-end.
+## Core Team
 
-1. See the [Deployment instructions](./instructions-4-deployment.md) for the requirements of deploying an app.
+The following people are responsible for designing and developing Playtest Feedback Hub.
+
+[Leo Chen](https://github.com/Lappass)
+[Anthony Kim](https://github.com/CrystalCM4)
+[Ben Zaslavsky](https://github.com/benzaslavsky)
+[uwa](https://github.com/uwa00)
+[CatLikeC++](https://github.com/GoodrainCN)
+
+## Project History
+
+Playtest Feedback Hub originated from the challenges developers face when collecting feedback during game development. Feedback can become scattered across communication platforms, screenshots, and verbal conversations, making it difficult to organize and use effectively.
+
+Our team developed the idea of creating a centralized, mobile-friendly application that streamlines feedback collection and management. The project is being developed as part of a collaborative software engineering project.
+
+## Key Features
+
+Planned features include:
+
+- a mobile-friendly interface for submitting feedback.
+- centralized storage for playtest feedback.
+- feedback categorization, such as bugs, gameplay, art, and audio.
+- support for screenshots or other relevant attachments, if implemented.
+- tools for developers to review and organize submissions.
+
+Features are subject to change as development progresses.
+
+## Getting Started
+
+The local development setup instructions will be added once the project's technology stack and dependencies have been established.
+
+## Building and Testing
+
+Build and testing instructions will be added when the project's build process and testing framework are ready.
+
+## ## Contributing
+
+We welcome contributions from team members and other authorized contributors.
+
+Before contributing, please read our [Contributing Guidelines](./CONTRIBUTING.md) for information about team norms, Git workflow, development setup, and Pull Request procedures.
+
+## Additional Documentation
+
+- [Contributing Guidelines](./CONTRIBUTING.md) — Rules and procedures for contributing to the project.
+
+Additional documentation will be linked here as it becomes available.
