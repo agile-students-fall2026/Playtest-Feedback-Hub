@@ -12,18 +12,15 @@ Playtest Feedback Hub aims to provide a centralized platform where playtesters c
 
 For game developers, game designers, and software developers who need to collect feedback while testing their products, Playtest Feedback Hub is a mobile-friendly feedback management platform that centralizes and organizes playtest feedback in one place. Unlike manually collecting feedback from scattered messages, screenshots, and conversations, our product aims to make feedback easier to access, understand, and act upon.
 
-## Main User Story
-As a game designer, I want feedback to be categorized by type, such as bugs, gameplay, art, and audio, so that I can find relevant feedback quickly.
-
 ## Core Team
 
 The following people are responsible for designing and developing Playtest Feedback Hub.
 
-[Leo Chen](https://github.com/Lappass)
-[Anthony Kim](https://github.com/CrystalCM4)
-[Ben Zaslavsky](https://github.com/benzaslavsky)
-[uwa](https://github.com/uwa00)
-[CatLikeC++](https://github.com/GoodrainCN)
+- [Leo Chen](https://github.com/Lappass)
+- [Uwa Igbinedion](https://github.com/uwa00)
+- [Anthony Kim](https://github.com/CrystalCM4)
+- [Guyu Sun](https://github.com/GoodrainCN)
+- [Ben Zaslavsky](https://github.com/benzaslavsky)
 
 ## Project History
 
@@ -51,7 +48,7 @@ The local development setup instructions will be added once the project's techno
 
 Build and testing instructions will be added when the project's build process and testing framework are ready.
 
-## ## Contributing
+## Contributing
 
 We welcome contributions from team members and other authorized contributors.
 
